@@ -2,4 +2,5 @@
 
 
 # Tools
--
+- Next.js
+- CSS
